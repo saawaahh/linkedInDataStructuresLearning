@@ -1,3 +1,6 @@
+# Freshining up on data structures 
+Since I did drop out of school because of mental health reasons, I decided it couldnt hurt to brush up on some of what I learned in data structues class
+
 # Programming Foundations: Data Structures
 This is the repository for the LinkedIn Learning course Programming Foundations: Data Structures. The full course is available from [LinkedIn Learning][lil-course-url].
 
