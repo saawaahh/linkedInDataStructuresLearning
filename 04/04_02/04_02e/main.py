@@ -1,12 +1,18 @@
-primary_colors = set(["red", "blue", "yellow"])
+# heree we are creating a set 
 
-color = "green"
+primary_colors = set(["blue", "red", "yellow"])
+
+
+# check to see if a color is primary 
+color = "pink"
 
 if color in primary_colors:
-    print(color + "is a primary color")
+  print(color + " be primary")
 else:
-    print(color + " is not a primary color")
+  print(color + " is not primary, i fear")
 
-letters = set(['a', 'b'])
-letters.add('c')
-print(letters)
+
+# now lets create a new set 
+letters = set(["a", "b"])
+letters.add('c')      #add letter c to the set 
+print(letters)    # this prints c, b, a => its important to notee that addind adds to the first index
