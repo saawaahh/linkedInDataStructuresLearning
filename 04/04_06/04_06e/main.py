@@ -1,3 +1,6 @@
+# check if a string has unique characters 
+# convert string to set and compare their legnth 
+
 def has_unique_characters(data):
     unique_data = set(data)
     return len(data) == len(unique_data)
